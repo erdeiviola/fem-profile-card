@@ -30,8 +30,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/erdeiviola/fem-profile-card.git](https://github.com/erdeiviola/fem-profile-card)
+- Live Site URL: [https://cool-lebkuchen-d4abdb.netlify.app/](https://cool-lebkuchen-d4abdb.netlify.app/)
 
 
 ### Built with
@@ -44,6 +44,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Erdei Viola](https://www.frontendmentor.io/profile/erdeiviola)
 
 
