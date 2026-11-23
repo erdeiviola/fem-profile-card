@@ -12,9 +12,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Built with](#built-with)
   - 
 - [Author](#author)
--
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -38,8 +36,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-
 
 
 ## Author
