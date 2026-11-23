@@ -129,7 +129,7 @@
    
      font-family: 'Kumbh Sans', sans-serif;
   font-size: 14px;
-  font-weight: bold;
+  font-weight: 400;
   line-height: 125%;
   color:grey;
 }
@@ -164,7 +164,7 @@ hr {
 .stat h2{
       font-family: 'Kumbh Sans', sans-serif;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: 400;
   line-height: 125%;
   color:hsl(229, 23%, 23%);
 }
